@@ -35,14 +35,18 @@ public class App {
 
 	public static void main(String[] args) throws Exception {
 
-		getFile("transcriptions");
+		getFile("transcriptions"); //transcriptions
 		
 		// tensorFlowAPI(null,null,null);
 		processFiles();
 	}
 
 	private static void processFiles() throws Exception {
-		
+		/**
+		 * Three choices of using Watch NLP, Naive Bayes NLP, and, Naive Bayes NLP using RNN
+		 * 
+		 **/
+		 
 		BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 		System.out.println("Analyse :\na.\tWatson NLP\nb.\tNaive Bayes NLP\nc.\tNaive Bayes NLP using RNN\nEnter your choice:\t");
 		char c = (char)bufferedReader.read();
@@ -68,7 +72,14 @@ public class App {
 						}
 					}
 				}
-
+				
+				/**
+				 * Determine Female and Male output
+				 * 
+				 **/
+				 
+				
+				
 				if (chatListFemale != null) {
 					// displayList(chatListFemale);
 					switch(c) {
