@@ -1,0 +1,17 @@
+Last Updated by Steven Yoo
+10/03/2017
+
+Man001_Woman001, Man010_Woman010, and Man020_Woman020 is in Dutch Language.
+Man018_Woman018 No Video in the dataset.
+
+What is a VTT file?
+Text data file saved in the Web Video Text Tracks (WebVTT) format; contains information about a web video, such as subtitles, captions, descriptions, chapters, and metadata; does not contain any video data.
+Opens with Google Chrome, Firefox... any web browsers.
+
+What is an SBV file?
+File used by YouTube videos to display subtitles or closed captions; contains one or more captions in a plain text format; specifies an ID, start and end time (using an H:MM:SS.000 format), and text for each caption.
+Opens with any text editor
+
+What is an SRT file?
+An SRT file is a subtitle file saved in the SubRip file format. It is supported by several video formats such as DivX and DVD and used by various video playback programs. SRT files contain subtitle information, which includes the sequential number of subtitles, start and end timecode, subtitle text.
+The timecode format featured in SRT files is hours, minutes, seconds, and milliseconds.

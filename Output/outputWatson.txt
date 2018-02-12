@@ -1,0 +1,2939 @@
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "you looked elsewhere I had to",
+      "tones": [
+        {
+          "score": 0.659556,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "yes",
+      "tones": [
+        {
+          "score": 1.0,
+          "tone_id": "polite",
+          "tone_name": "Polite"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "what's the first thing you noticed about",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "me your smile my smile yeah really",
+      "tones": [
+        {
+          "score": 0.841315,
+          "tone_id": "excited",
+          "tone_name": "Excited"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "mm-hmm",
+      "tones": [
+        {
+          "score": 0.684037,
+          "tone_id": "polite",
+          "tone_name": "Polite"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "okay who do you think I am",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "who do I think you are yeah what do you",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "mean you're you're Catherine right is in",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "your name Catherine yeah all right we",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "met last night right you told me your",
+      "tones": [
+        {
+          "score": 0.561381,
+          "tone_id": "excited",
+          "tone_name": "Excited"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "name's Catherine yeah I don't know your",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "last name",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "I'm Katrin I don't know your last name",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "that's me yeah but uh what do you what",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "do you do like how famous are you who do",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "I think you are like what makes up a",
+      "tones": [
+        {
+          "score": 0.615564,
+          "tone_id": "excited",
+          "tone_name": "Excited"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "person that's the question I think",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "you're Catherine I think you're famous",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "to answer I think you're in actors",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "because like you're in such good shape",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "like physically you're like in perfect",
+      "tones": [
+        {
+          "score": 0.683227,
+          "tone_id": "excited",
+          "tone_name": "Excited"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "shape so you keep active so I think",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "you're I think you're a model for",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "swimsuits if you would play I think",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "you're a model that's what I think is",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "that who you are are you gonna think no",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "you tell you I take it what are you",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "looking for in a relationship I'm so",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "super single I mean I relationship",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "respect communication affection",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "sincerity honesty friendliness",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "oh you're serious",
+      "tones": [
+        {
+          "score": 0.537752,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        },
+        {
+          "score": 0.834994,
+          "tone_id": "impolite",
+          "tone_name": "Impolite"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "I like your answer yeah yeah what are",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "you looking for what am I looking for",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "yeah in a relationship yeah",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "blue eyes okay um we're not looking for",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "a relationship I'm not really looking",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "for a relationship",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "oh um what am I looking for if I had a",
+      "tones": [
+        {
+          "score": 0.733157,
+          "tone_id": "excited",
+          "tone_name": "Excited"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "relationship probably blue eyes I got it",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "is it my turn your turn",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "yeah what are you fearful of in terms of",
+      "tones": [
+        {
+          "score": 0.636873,
+          "tone_id": "sad",
+          "tone_name": "sad"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "relationship oh is it my turn what am i",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "fearful of yes uh what am i fearful I'm",
+      "tones": [
+        {
+          "score": 0.608508,
+          "tone_id": "sad",
+          "tone_name": "sad"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "fearful of um my own insecurities like",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "not like just myself like putting it",
+      "tones": [
+        {
+          "score": 0.707602,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "like being so insecure that I lose the",
+      "tones": [
+        {
+          "score": 0.773674,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        },
+        {
+          "score": 0.569496,
+          "tone_id": "sad",
+          "tone_name": "sad"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "person no like I'd be so insecure that",
+      "tones": [
+        {
+          "score": 0.700861,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "you would just you would notice it and",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "you just say see ya yeah it's the same",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "answer for me come on really really okay",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "okay",
+      "tones": [
+        {
+          "score": 0.875,
+          "tone_id": "satisfied",
+          "tone_name": "Satisfied"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "Billy you're insecure yeah on a scale of",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "1 to 6.5 how insecure do you think you",
+      "tones": [
+        {
+          "score": 0.775113,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "are with 6.5 being the little beast",
+      "tones": [
+        {
+          "score": 0.769479,
+          "tone_id": "excited",
+          "tone_name": "Excited"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "insecure well it depends of the majority",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "I guess you can pair yourself to each",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "other all right just give a number yeah",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "don't say 3.25 I was kind of old 10 ya",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "know zero to six point five six point",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "five let's see four and a half four",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "point five yes metric system or regular",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "what do you think I want from life love",
+      "tones": [
+        {
+          "score": 0.681883,
+          "tone_id": "excited",
+          "tone_name": "Excited"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "success happiness a Cadillac a million",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "bucks",
+      "tones": [
+        {
+          "score": 1.0,
+          "tone_id": "polite",
+          "tone_name": "Polite"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "a bigger cock I don't know",
+      "tones": [
+        {
+          "score": 0.633473,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        },
+        {
+          "score": 0.878941,
+          "tone_id": "impolite",
+          "tone_name": "Impolite"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "well color Caroline and the friend with",
+      "tones": [
+        {
+          "score": 0.701181,
+          "tone_id": "excited",
+          "tone_name": "Excited"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "blue eyes what color cattle I that's all",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "I really want is blue eyes yeah okay",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "sorry I got it",
+      "tones": [
+        {
+          "score": 0.732631,
+          "tone_id": "sympathetic",
+          "tone_name": "Sympathetic"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "a friend with blue eyes right you're",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "right well you've got to know that you",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "got it how did you know that okay",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "what what I think you are from life okay",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "I think you are I think you are I think",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "you want to work hard no I think you",
+      "tones": [
+        {
+          "score": 0.564431,
+          "tone_id": "sad",
+          "tone_name": "sad"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "want to be successful I think you want",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "security like you want a safety like you",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "want to feel like warm and safe and like",
+      "tones": [
+        {
+          "score": 0.625202,
+          "tone_id": "excited",
+          "tone_name": "Excited"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "well just like everybody yeah kind of a",
+      "tones": [
+        {
+          "score": 0.5,
+          "tone_id": "excited",
+          "tone_name": "Excited"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "boring answer yeah I think I also I also",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "think you want to be a famous drone you",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "want a drum for the Talking Heads you",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "want to be a drummer on the top with the",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "Talking Heads no I don't think that's",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "wrong are you a drumsticks in your bag",
+      "tones": [
+        {
+          "score": 0.716442,
+          "tone_id": "sad",
+          "tone_name": "sad"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "glasses yeah I like drums I like music",
+      "tones": [
+        {
+          "score": 0.649191,
+          "tone_id": "excited",
+          "tone_name": "Excited"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "why'd you have drumsticks in your bag",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "and that girl is putting them in your",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "mouth and like oh it's a long story",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "I'm sorry is he faced he a nice guy the",
+      "tones": [
+        {
+          "score": 0.747843,
+          "tone_id": "sympathetic",
+          "tone_name": "Sympathetic"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "guy who got the drumsticks wrong yeah",
+      "tones": [
+        {
+          "score": 0.562899,
+          "tone_id": "sad",
+          "tone_name": "sad"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "okay you miss him well he lives a just",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "one street corner away from me in",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "Montreal we used to be roommates uh",
+      "tones": [
+        {
+          "score": 0.690046,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "actually ten years ago we dated each",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "other it was my first official boyfriend",
+      "tones": [
+        {
+          "score": 0.756921,
+          "tone_id": "excited",
+          "tone_name": "Excited"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "okay okay yeah but if you're 30 now how",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "are you eighteen ten years ago well we",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "met each other in high school uh-huh I",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "went in there school music music school",
+      "tones": [
+        {
+          "score": 0.672044,
+          "tone_id": "excited",
+          "tone_name": "Excited"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "next question okay",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "is it my turn no it's my turn oh oh all",
+      "tones": [
+        {
+          "score": 0.631335,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        },
+        {
+          "score": 0.597229,
+          "tone_id": "sad",
+          "tone_name": "sad"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "right can you feel chemistry right now",
+      "tones": [
+        {
+          "score": 0.556451,
+          "tone_id": "excited",
+          "tone_name": "Excited"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "yes do you a little bit so this is the",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "eyes eyes are big chemistry that's",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "chemistry cuz blue and brown",
+      "tones": [
+        {
+          "score": 0.651632,
+          "tone_id": "excited",
+          "tone_name": "Excited"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "like they make a different color if we",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "put our eyes together they'd make like",
+      "tones": [
+        {
+          "score": 0.731324,
+          "tone_id": "excited",
+          "tone_name": "Excited"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "amber yellow or green or something so",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "that's the chemistry I feel but those",
+      "tones": [
+        {
+          "score": 0.725203,
+          "tone_id": "excited",
+          "tone_name": "Excited"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "blue eyes are shocking but you lied to",
+      "tones": [
+        {
+          "score": 0.5,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        },
+        {
+          "score": 0.554328,
+          "tone_id": "sad",
+          "tone_name": "sad"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "me which I'm not liking you think so",
+      "tones": [
+        {
+          "score": 0.533538,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        },
+        {
+          "score": 0.867926,
+          "tone_id": "impolite",
+          "tone_name": "Impolite"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "yeah",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "what did I feel you told me your eyes",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "were hazel they are dead changing colors",
+      "tones": [
+        {
+          "score": 0.582431,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        },
+        {
+          "score": 0.919885,
+          "tone_id": "impolite",
+          "tone_name": "Impolite"
+        },
+        {
+          "score": 0.641309,
+          "tone_id": "sad",
+          "tone_name": "sad"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "every day they're changing color the",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "blue right now oh you're great this",
+      "tones": [
+        {
+          "score": 0.616173,
+          "tone_id": "excited",
+          "tone_name": "Excited"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "one's blue this a bit more green okay",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "okay awesome question I do like eyes me",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "too you do okay",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "am I out of shape are you out of shape",
+      "tones": [
+        {
+          "score": 0.749907,
+          "tone_id": "excited",
+          "tone_name": "Excited"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "yes whose question whose idea was that",
+      "tones": [
+        {
+          "score": 0.578361,
+          "tone_id": "sad",
+          "tone_name": "sad"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "no make a muscle I've never seen a girl",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "in better shape than you I really",
+      "tones": [
+        {
+          "score": 0.647254,
+          "tone_id": "excited",
+          "tone_name": "Excited"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "haven't do you want to do it again no I",
+      "tones": [
+        {
+          "score": 0.545137,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        },
+        {
+          "score": 0.813109,
+          "tone_id": "sad",
+          "tone_name": "sad"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "think you could beret his other arm but",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "you can't lift your elbow off the table",
+      "tones": [
+        {
+          "score": 0.703284,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "last night you were like get your elbow",
+      "tones": [
+        {
+          "score": 0.66211,
+          "tone_id": "excited",
+          "tone_name": "Excited"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "I'm left-handed no I can't do lefty I",
+      "tones": [
+        {
+          "score": 0.579229,
+          "tone_id": "sad",
+          "tone_name": "sad"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "have a bad shoulder you're lying I mean",
+      "tones": [
+        {
+          "score": 0.693895,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        },
+        {
+          "score": 0.527184,
+          "tone_id": "sad",
+          "tone_name": "sad"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "I had a tennis injury even though I'm",
+      "tones": [
+        {
+          "score": 0.625247,
+          "tone_id": "sad",
+          "tone_name": "sad"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "righty wait you started without saying",
+      "tones": [
+        {
+          "score": 0.717974,
+          "tone_id": "sad",
+          "tone_name": "sad"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "one say one two I'm gonna break the tail",
+      "tones": [
+        {
+          "score": 0.669024,
+          "tone_id": "sad",
+          "tone_name": "sad"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "say one two three go call it this you",
+      "tones": [
+        {
+          "score": 0.628037,
+          "tone_id": "sad",
+          "tone_name": "sad"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "like this okay yep you can't lift your",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "elbow off the tail how",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "okay yeah you about that give up a my",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "whim okay are you out of shape oh my god",
+      "tones": [
+        {
+          "score": 0.596296,
+          "tone_id": "excited",
+          "tone_name": "Excited"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "it's a terrible question how many people",
+      "tones": [
+        {
+          "score": 0.602146,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        },
+        {
+          "score": 0.588685,
+          "tone_id": "sad",
+          "tone_name": "sad"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "do you think I was slept with it was a",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "hundred a hundred yes at least okay um",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "means do I think you've slept with I",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "think you're a virgin right so you told",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "me last night I believe you what am I on",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "a scale of 1 to 10 and why",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "what are you looks wise there what",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "personality an open question",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "mmm what are you and let me think let me",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "see your legs all right let me see the",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "other way honestly yes or no for a true",
+      "tones": [
+        {
+          "score": 0.613259,
+          "tone_id": "sad",
+          "tone_name": "sad"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "answer I'll give you a nine oh yeah cuz",
+      "tones": [
+        {
+          "score": 0.758813,
+          "tone_id": "excited",
+          "tone_name": "Excited"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "your eyes your blue eyes oh thank you",
+      "tones": [
+        {
+          "score": 0.689217,
+          "tone_id": "polite",
+          "tone_name": "Polite"
+        },
+        {
+          "score": 0.713547,
+          "tone_id": "satisfied",
+          "tone_name": "Satisfied"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "but I don't give you a 10 I'm getting",
+      "tones": [
+        {
+          "score": 0.733146,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        },
+        {
+          "score": 0.651319,
+          "tone_id": "sad",
+          "tone_name": "sad"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "you a 11",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "what no yeah I'm ugly I used to have",
+      "tones": [
+        {
+          "score": 0.574665,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        },
+        {
+          "score": 0.897673,
+          "tone_id": "impolite",
+          "tone_name": "Impolite"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "looks but I lost them",
+      "tones": [
+        {
+          "score": 0.610455,
+          "tone_id": "sad",
+          "tone_name": "sad"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "oh come on I did nobody's perfect",
+      "tones": [
+        {
+          "score": 0.69598,
+          "tone_id": "excited",
+          "tone_name": "Excited"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "actually I'm talking right okay I'll",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "give you a ten then if you give me an",
+      "tones": [
+        {
+          "score": 0.722348,
+          "tone_id": "excited",
+          "tone_name": "Excited"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "eleven okay all right I give her a ten",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "she I mean yeah some nice give you a",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "nine no I give you a ten okay give you a",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "nine okay okay my turn",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "I don't keep honest be honest I get a",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "four I get a four do I seem intelligent",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "yes no doubt uh yes or yes yes yes I",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "don't think you would be there otherwise",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "do you like my style",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "yes why why do I like your style yes",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "because you don't care what people think",
+      "tones": [
+        {
+          "score": 0.557813,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        },
+        {
+          "score": 0.827855,
+          "tone_id": "impolite",
+          "tone_name": "Impolite"
+        },
+        {
+          "score": 0.584834,
+          "tone_id": "sad",
+          "tone_name": "sad"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "you just like you know like last night",
+      "tones": [
+        {
+          "score": 0.583854,
+          "tone_id": "excited",
+          "tone_name": "Excited"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "we knew or had the drumstick and like",
+      "tones": [
+        {
+          "score": 0.705321,
+          "tone_id": "excited",
+          "tone_name": "Excited"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "that girl is putting them like down",
+      "tones": [
+        {
+          "score": 0.660282,
+          "tone_id": "excited",
+          "tone_name": "Excited"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "you're you're just like and then she put",
+      "tones": [
+        {
+          "score": 0.879994,
+          "tone_id": "impolite",
+          "tone_name": "Impolite"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "it in your mouth and then and then like",
+      "tones": [
+        {
+          "score": 0.718306,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "I don't know you just don't care what",
+      "tones": [
+        {
+          "score": 0.515097,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        },
+        {
+          "score": 0.862959,
+          "tone_id": "impolite",
+          "tone_name": "Impolite"
+        },
+        {
+          "score": 0.681871,
+          "tone_id": "sad",
+          "tone_name": "sad"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "people think what yeah I mean most girls",
+      "tones": [
+        {
+          "score": 0.780865,
+          "tone_id": "excited",
+          "tone_name": "Excited"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "would be like oh this is good when's the",
+      "tones": [
+        {
+          "score": 0.522553,
+          "tone_id": "excited",
+          "tone_name": "Excited"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "last time you lost your knee your nerve",
+      "tones": [
+        {
+          "score": 0.544884,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        },
+        {
+          "score": 0.565512,
+          "tone_id": "sad",
+          "tone_name": "sad"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "completely and why completely last night",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "yeah like he lost a nerve completely",
+      "tones": [
+        {
+          "score": 0.587323,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "completely lost my nerve I think that",
+      "tones": [
+        {
+          "score": 0.5,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        },
+        {
+          "score": 0.595186,
+          "tone_id": "sad",
+          "tone_name": "sad"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "was in 2014 and I don't really feel like",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "thinking okay okay your turn alright",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "sorry to bring it up that's what",
+      "tones": [
+        {
+          "score": 0.733504,
+          "tone_id": "sympathetic",
+          "tone_name": "Sympathetic"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "categories of porn do you watch porn oh",
+      "tones": [
+        {
+          "score": 0.506315,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "I watch porn yeah whatever e1 watches",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "porn I was like no i watch i watch like",
+      "tones": [
+        {
+          "score": 0.573661,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "i don't know i just put in like you know",
+      "tones": [
+        {
+          "score": 0.571308,
+          "tone_id": "sad",
+          "tone_name": "sad"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "like sucking cock all right and then up",
+      "tones": [
+        {
+          "score": 0.765705,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        },
+        {
+          "score": 0.806239,
+          "tone_id": "impolite",
+          "tone_name": "Impolite"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "come videos yeah yeah",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "but usually it's women sucking cock not",
+      "tones": [
+        {
+          "score": 0.624741,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        },
+        {
+          "score": 0.716279,
+          "tone_id": "impolite",
+          "tone_name": "Impolite"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "men they're blonde or curl I like",
+      "tones": [
+        {
+          "score": 0.710256,
+          "tone_id": "excited",
+          "tone_name": "Excited"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "brunettes I like brunettes with a little",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "streak of red in their hair second cocks",
+      "tones": [
+        {
+          "score": 0.71358,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "yeah big I like yeah I don't I don't",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "care what size the cock is it's the",
+      "tones": [
+        {
+          "score": 0.658762,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        },
+        {
+          "score": 0.907149,
+          "tone_id": "impolite",
+          "tone_name": "Impolite"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "mouth yeah that's all that oh my action",
+      "tones": [
+        {
+          "score": 0.553563,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "it's a girl if she has really big lips",
+      "tones": [
+        {
+          "score": 0.779927,
+          "tone_id": "excited",
+          "tone_name": "Excited"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "and sometimes like I like when they talk",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "dirty that's the compound like well how",
+      "tones": [
+        {
+          "score": 0.739994,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "about you you know no you're still",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "virgin I'm weird a your art no you're",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "just not into",
+      "tones": [
+        {
+          "score": 0.631685,
+          "tone_id": "sad",
+          "tone_name": "sad"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "I am into it I mean I don't watch porn",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "to the computer to your computer I have",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "a laptop you don't watch porn",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "no I guess women maybe do but there's",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "like pop I have foreign popping",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "publicity all the time",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "very funny porn popping publicity that's",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "onomatopoetic horn popping composing",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "horn popping penises yes",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "what do you think is second second",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "what do you think is the sexiest part of",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "my body honestly yeah I think your voice",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "my voice yeah it's not part of my body",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "it comes out of my body",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "okay so I'd have to see your eyes okay",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "okay you want to know what I think is",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "the sexiest part of your body okay look",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "carefully I'd say I'd say your eyes",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "thank you whose turn is it I just want",
+      "tones": [
+        {
+          "score": 0.662841,
+          "tone_id": "satisfied",
+          "tone_name": "Satisfied"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "to go make out with you so I want to get",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "this over with",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "whose turn is it I don't remember okay I",
+      "tones": [
+        {
+          "score": 0.556611,
+          "tone_id": "sad",
+          "tone_name": "sad"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "think it's your turn okay no yes maybe",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "yes your turn what sexual act are you",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "afraid to try sexual act yes I'm with a",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "woman or with a man it doesn't specify",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "know something that you're afraid to try",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "well I don't like it like you a girl",
+      "tones": [
+        {
+          "score": 0.670972,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "like bends over like totally I'm afraid",
+      "tones": [
+        {
+          "score": 0.610799,
+          "tone_id": "excited",
+          "tone_name": "Excited"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "to try something yeah like if she put",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "her head over her over her butt like oh",
+      "tones": [
+        {
+          "score": 0.717092,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "okay and then I had to I had to do it",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "like I think that's weird like I think",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "it's too much like you don't see the",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "face you don't see like you see like a",
+      "tones": [
+        {
+          "score": 0.672193,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "little pussy in a little asshole so I",
+      "tones": [
+        {
+          "score": 0.88948,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        },
+        {
+          "score": 0.775145,
+          "tone_id": "impolite",
+          "tone_name": "Impolite"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "wouldn't I wouldn't do that like no it's",
+      "tones": [
+        {
+          "score": 0.576984,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "just weird but I mean I would I mean I I",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "that's I'm not afraid how about you I'm",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "not answering that",
+      "tones": [
+        {
+          "score": 0.512244,
+          "tone_id": "frustrated",
+          "tone_name": "Frustrated"
+        },
+        {
+          "score": 0.607987,
+          "tone_id": "sad",
+          "tone_name": "sad"
+        }
+      ]
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "okay what is your sexual fantasy you",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "would like to have with me let's see I",
+      "tones": []
+    }
+  ]
+}
+{
+  "utterances_tone": [
+    {
+      "utterance_id": "0",
+      "utterance_text": "would try what you're afraid of",
+      "tones": []
+    }
+  ]
+}
