@@ -1,29 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-  <classpathentry kind="output" path="target/classes"/>
-  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-  <classpathentry kind="var" path="M2_REPO/junit/junit/3.8.1/junit-3.8.1.jar"/>
-  <classpathentry kind="var" path="M2_REPO/com/ibm/watson/developer_cloud/java-sdk/4.0.0/java-sdk-4.0.0.jar"/>
-  <classpathentry kind="var" path="M2_REPO/com/ibm/watson/developer_cloud/alchemy/4.0.0/alchemy-4.0.0.jar"/>
-  <classpathentry kind="var" path="M2_REPO/com/ibm/watson/developer_cloud/core/4.0.0/core-4.0.0.jar"/>
-  <classpathentry kind="var" path="M2_REPO/com/squareup/okhttp3/okhttp/3.8.0/okhttp-3.8.0.jar"/>
-  <classpathentry kind="var" path="M2_REPO/com/squareup/okio/okio/1.13.0/okio-1.13.0.jar"/>
-  <classpathentry kind="var" path="M2_REPO/com/squareup/okhttp3/logging-interceptor/3.8.0/logging-interceptor-3.8.0.jar"/>
-  <classpathentry kind="var" path="M2_REPO/com/squareup/okhttp3/okhttp-urlconnection/3.8.0/okhttp-urlconnection-3.8.0.jar"/>
-  <classpathentry kind="var" path="M2_REPO/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar"/>
-  <classpathentry kind="var" path="M2_REPO/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar"/>
-  <classpathentry kind="var" path="M2_REPO/org/glassfish/jersey/bundles/repackaged/jersey-jsr166e/2.25.1/jersey-jsr166e-2.25.1.jar"/>
-  <classpathentry kind="var" path="M2_REPO/com/ibm/watson/developer_cloud/conversation/4.0.0/conversation-4.0.0.jar"/>
-  <classpathentry kind="var" path="M2_REPO/com/ibm/watson/developer_cloud/discovery/4.0.0/discovery-4.0.0.jar"/>
-  <classpathentry kind="var" path="M2_REPO/com/ibm/watson/developer_cloud/document-conversion/4.0.0/document-conversion-4.0.0.jar"/>
-  <classpathentry kind="var" path="M2_REPO/com/ibm/watson/developer_cloud/language-translator/4.0.0/language-translator-4.0.0.jar"/>
-  <classpathentry kind="var" path="M2_REPO/com/ibm/watson/developer_cloud/natural-language-classifier/4.0.0/natural-language-classifier-4.0.0.jar"/>
-  <classpathentry kind="var" path="M2_REPO/com/ibm/watson/developer_cloud/natural-language-understanding/4.0.0/natural-language-understanding-4.0.0.jar"/>
-  <classpathentry kind="var" path="M2_REPO/com/ibm/watson/developer_cloud/personality-insights/4.0.0/personality-insights-4.0.0.jar"/>
-  <classpathentry kind="var" path="M2_REPO/com/ibm/watson/developer_cloud/retrieve-and-rank/4.0.0/retrieve-and-rank-4.0.0.jar"/>
-  <classpathentry kind="var" path="M2_REPO/com/ibm/watson/developer_cloud/speech-to-text/4.0.0/speech-to-text-4.0.0.jar"/>
-  <classpathentry kind="var" path="M2_REPO/com/ibm/watson/developer_cloud/text-to-speech/4.0.0/text-to-speech-4.0.0.jar"/>
-  <classpathentry kind="var" path="M2_REPO/com/ibm/watson/developer_cloud/tone-analyzer/4.0.0/tone-analyzer-4.0.0.jar"/>
-  <classpathentry kind="var" path="M2_REPO/com/ibm/watson/developer_cloud/tradeoff-analytics/4.0.0/tradeoff-analytics-4.0.0.jar"/>
-  <classpathentry kind="var" path="M2_REPO/com/ibm/watson/developer_cloud/visual-recognition/4.0.0/visual-recognition-4.0.0.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/junit/junit/3.8.1/junit-3.8.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/ibm/watson/developer_cloud/java-sdk/4.0.0/java-sdk-4.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/ibm/watson/developer_cloud/alchemy/4.0.0/alchemy-4.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/ibm/watson/developer_cloud/core/4.0.0/core-4.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/squareup/okhttp3/okhttp/3.8.0/okhttp-3.8.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/squareup/okio/okio/1.13.0/okio-1.13.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/squareup/okhttp3/logging-interceptor/3.8.0/logging-interceptor-3.8.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/squareup/okhttp3/okhttp-urlconnection/3.8.0/okhttp-urlconnection-3.8.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/jersey/bundles/repackaged/jersey-jsr166e/2.25.1/jersey-jsr166e-2.25.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/ibm/watson/developer_cloud/conversation/4.0.0/conversation-4.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/ibm/watson/developer_cloud/discovery/4.0.0/discovery-4.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/ibm/watson/developer_cloud/document-conversion/4.0.0/document-conversion-4.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/ibm/watson/developer_cloud/language-translator/4.0.0/language-translator-4.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/ibm/watson/developer_cloud/natural-language-classifier/4.0.0/natural-language-classifier-4.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/ibm/watson/developer_cloud/natural-language-understanding/4.0.0/natural-language-understanding-4.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/ibm/watson/developer_cloud/personality-insights/4.0.0/personality-insights-4.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/ibm/watson/developer_cloud/retrieve-and-rank/4.0.0/retrieve-and-rank-4.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/ibm/watson/developer_cloud/speech-to-text/4.0.0/speech-to-text-4.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/ibm/watson/developer_cloud/text-to-speech/4.0.0/text-to-speech-4.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/ibm/watson/developer_cloud/tone-analyzer/4.0.0/tone-analyzer-4.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/ibm/watson/developer_cloud/tradeoff-analytics/4.0.0/tradeoff-analytics-4.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/ibm/watson/developer_cloud/visual-recognition/4.0.0/visual-recognition-4.0.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
 </classpath>
