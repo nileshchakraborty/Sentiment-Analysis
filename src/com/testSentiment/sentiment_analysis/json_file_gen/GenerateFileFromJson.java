@@ -236,7 +236,7 @@ public class GenerateFileFromJson {
 
 	private static void writeHeader(BufferedWriter bw) throws IOException, NullPointerException {
 
-		bw.write("utterance_id,");
+		bw.write("utterance_id");
 		for (String s : statementsOfSentiments) {
 			bw.write("," + s);
 		}
