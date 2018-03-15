@@ -1,0 +1,30 @@
+{
+	"sentiments": [
+	{
+	  "utterances_tone": [
+	    {
+	      "utterance_id": "0",
+	      "utterance_text": "yes",
+	      "tones": [
+	       	{
+			  "score": 1.0,
+	          "tone_id": "polite",
+	          "tone_name": "Polite"
+	        }
+	      ]
+	    },
+	    {
+	      "utterance_id": "1",
+	      "utterance_text": "yes",
+	      "tones": [
+	        {
+	          "score": 1.0,
+	          "tone_id": "polite",
+	          "tone_name": "Polite"
+	        }
+	      ]
+	    }
+	   ]
+ 	}
+ 	]
+ }

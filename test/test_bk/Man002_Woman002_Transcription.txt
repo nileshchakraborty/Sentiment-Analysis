@@ -1,0 +1,2 @@
+Man002_Woman002_Transcription_0001,yes
+Man002_Woman002_Transcription_0002,yes
